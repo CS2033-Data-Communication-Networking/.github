@@ -1,11 +1,8 @@
 # CS2033 Data Communication & Networking
 
-Central repository organization for academic coursework, network calculations, protocol analysis, practical implementations, and weekly notes for CS2033 Data Communication & Networking at the Department of Computer Science and Engineering, University of Moratuwa.
+Central repository organization for academic coursework, network calculations, protocol analysis, and practical implementations for CS2033 Data Communication & Networking at the Department of Computer Science and Engineering, University of Moratuwa.
 
 ## Organization Repositories
-
-### Course Notes
-- [CS2033-Weekly-Notes](https://github.com/CS2033-Data-Communication-Networking/CS2033-Weekly-Notes): Comprehensive weekly lecture notes covering communication models, signal transmission, encoding, modulation, multiplexing, data-link control, and network architectures.
 
 ### Lab Assignments & Programming
 - [lab-assignment-01-c-primer](https://github.com/CS2033-Data-Communication-Networking/lab-assignment-01-c-primer): C programming primer covering pointers, dynamic memory, linked lists, matrices, and grader boundaries.
@@ -24,10 +21,6 @@ Central repository organization for academic coursework, network calculations, p
 
 ### Organization Workspace
 - [.github](https://github.com/CS2033-Data-Communication-Networking/.github): Organization profile and workspace configuration.
-
-## Module Documentation
-
-Weekly learning notes are authored through Notion and maintained in GitHub for version-controlled, durable reference. Topics focus on connecting transmission theory with real-world networking protocols, framing mechanisms, error detection/correction, and network design calculations.
 
 ## Engineering & Git Standards
 
